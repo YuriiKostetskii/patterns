@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jk1vcw+1+EuUjZ9xDZrOZRkoe4BC9QqFaAzq4JDC09sqxfXdWUG/suZjgG1jllZhlwwQ0d6B318OrnfLxhr2Ow==",
+  "success": true,
+  "projectFilePath": "D:\\криптологія\\lab1\\lab1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\koste\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
